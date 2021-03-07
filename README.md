@@ -1,8 +1,8 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm pasted
 
 [![Discord](https://discord.gg/nG92qmgYRr)](https://discord.gg/nG92qmgYRr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## Fortnite Cheat Developer
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
