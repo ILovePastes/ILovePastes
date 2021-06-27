@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ILovePastes">
-    <img src="https://discord.c99.nl/widget/theme-1/769559649313620021.png"/>
+    <img src="https://discord.c99.nl/widget/theme-4/769559649313620021.png"/>
      </a>
 </p>
 
